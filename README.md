@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">y soy estudiante de ingeniería de sistemas, en mi repositorio encontrarás cursos y mini proyectos que he creado.</p>
+<p align="left">Soy estudiante de ingeniería de sistemas, en mi repositorio encontrarás cursos y mini proyectos que he creado.</p>
 
 ###
 
