@@ -1,5 +1,3 @@
-<br clear="both">
-
 <img align="right" height="130" src="https://i.pinimg.com/736x/a6/2d/45/a62d45ddbe29cf42da820a576d9375e1.jpg"  />
 
 ###
