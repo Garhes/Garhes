@@ -6,7 +6,7 @@
 
 <h2 align="left">¡Hola 👋! Me llamo Garhes. 🚀</h2>
 
-###
+
 
 <br clear="both">
 
@@ -51,7 +51,7 @@
 
 <h2 align="left">Me puedes encontrar en:</h2>
 
-###
+
 
 <br clear="both">
 
