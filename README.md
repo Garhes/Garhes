@@ -65,5 +65,4 @@
 
 ###
 
-agregale un fondo de color morado con degradado negro 
 
