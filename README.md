@@ -6,6 +6,7 @@
 
 ###
 
+<br clear="both">
 
 <p align="left">🔭 Soy estudiante de ingeniería de sistemas, en mi repositorio encontrarás cursos y mini proyectos que he creado.<br><br>⚡ Dato curioso: uso tabulaciones en lugar de espacios.</p>
 
@@ -46,7 +47,7 @@
 
 ###
 
-<h3 align="left">Me puedes encontrar en:</h3>
+<h2 align="left">Me puedes encontrar en:</h2>
 
 ###
 
@@ -70,4 +71,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Garhes/Garhes/output/pacman-contribution-graph.svg">
 </picture>
 
-#####
+###
