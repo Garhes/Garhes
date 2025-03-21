@@ -45,6 +45,8 @@
 
 <img align="right" height="150" src="https://media.tenor.com/itjFesV8_RUAAAAj/soulja-boy-pepe.gif"  />
 
+<br clear="both">
+
 ###
 
 <h2 align="left">Me puedes encontrar en:</h2>
