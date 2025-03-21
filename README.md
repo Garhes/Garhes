@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">¡Hola 👋! Me llamo Garhes.</h2>
+<h1 align="left">¡Hola 👋! Me llamo Garhes.</h1>
 
 ###
 
