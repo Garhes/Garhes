@@ -4,9 +4,9 @@
 
 ###
 
-<h2 align="left">¡Hola 👋! Me llamo Garhes. 🚀</h2>
+<h1 align="left">¡Hola 👋! Me llamo Garhes. 🚀</h1>
 
-
+###
 
 <br clear="both">
 
@@ -45,13 +45,13 @@
 
 <br clear="both">
 
-<img align="right" height="130" src="https://media.tenor.com/itjFesV8_RUAAAAj/soulja-boy-pepe.gif"  />
+<img align="right" height="140" src="https://media.tenor.com/itjFesV8_RUAAAAj/soulja-boy-pepe.gif"  />
 
 ###
 
-<h2 align="left">Me puedes encontrar en:</h2>
+<h3 align="left">Me puedes encontrar en:</h3>
 
-
+###
 
 <br clear="both">
 
