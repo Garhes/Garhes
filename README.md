@@ -57,7 +57,6 @@
 
 ## 🎯 Pequeñas Grandes Victorias:
 
-- 🏆 Participante de Hacktoberfest 2025.
 - 👨‍💻 Primer Pull Request aprobado 🚀.
 - 📈 Más de **500 contribuciones** este año.
 - 🌟 Cada día mejorando un 1% más.
