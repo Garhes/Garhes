@@ -68,9 +68,6 @@
 - ![GitHub Followers](https://img.shields.io/github/followers/Garhes?label=Seguidores&style=social)
 - ![GitHub Stars](https://img.shields.io/github/stars/Garhes?label=Estrellas&style=social)
 - ![Profile Views](https://komarev.com/ghpvc/?username=Garhes&label=Visitas&color=blue&style=flat)
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Garhes&label=Visitas&color=brightgreen" alt="Profile views" />
-</p>
 
 ---
 
