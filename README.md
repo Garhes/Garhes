@@ -1,7 +1,7 @@
 # 👋 ¡Hola, soy Garhes! 🚀
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=500&height=100&lines=Hola%2C+soy+Garhes.;Bienvenido+a+mi+GitHub!;Apasionado+por+el+desarrollo+y+la+innovaci%C3%B3n.🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=500&height=100&lines=Hola%2C+soy+Garhes.;Bienvenido+a+mi+GitHub!;Apasionado+por+el+desarrollo+y+la+innovación+Manejo+Linux%C3%B3n.🚀" alt="Typing SVG" />
 </p>
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:43C6AC,100:F8FFAE&height=250&section=header&text=¡Bienvenido!&fontSize=40&fontColor=ffffff)
