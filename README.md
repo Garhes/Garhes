@@ -12,7 +12,6 @@
 
 - 🎓 Estudiante de **Ingeniería de Sistemas** en constante evolución.
 - 💻 Apasionado por el **desarrollo web**, **backend** y **blockchain**.
-- ☕ El café corre por mis venas.
 - ⚡ Fun Fact: Uso **tabulaciones** y moriré defendiendo esa decisión.
 
 ---
