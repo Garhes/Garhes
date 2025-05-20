@@ -19,7 +19,7 @@
 ## 🛠️ Tecnologías y herramientas que uso:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,php,mysql,solidity,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,php,mysql,solidity,git,github,vscode,linux,docker" />
 </p>
 
 ---
